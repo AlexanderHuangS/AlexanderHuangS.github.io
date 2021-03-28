@@ -1,4 +1,5 @@
 # Site settings | 网站设置
+git config --global user.name AlexanderHuangS
 title:  AlexanderHuangS
 SEOTitle:  AlexanderHuangS的博客 | AlexanderHuangS
 header-img: img/home-bg-he.png
