@@ -5,7 +5,7 @@ header-img: img/home-bg-he.png
 email: 2686030626@qq.com
 description: " AlexanderHuangS的博客"
 keyword: " AlexanderHuangS,  AlexanderHuangS的博客,  Alexander HuangS,  AlexanderHuangS, Python blog"
-url: "http:// AlexanderHuangS.github.io"          # your host, for absolute URL
+url: "http://AlexanderHuangS.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/AlexanderHuangS/AlexanderHuangS.github.io.git" #code repository | 代码仓库
 
@@ -20,6 +20,7 @@ sidebar-avatar: /img/head.jpg      # 头像
 
 
 # SNS settings | 社交网络设置
+
 github_username: AlexanderHuangS
 
 
